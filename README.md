@@ -25,7 +25,7 @@
 
 ---
 
-### 🧠 Whoami (Terminal Style)
+### 🧠 Whoami
 
 ```bash
 > Prajeesh KC
