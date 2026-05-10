@@ -1,5 +1,5 @@
 <h1 align="center">💀 Hi, I'm Prajeesh KC</h1>
-<h3 align="center"><code>Cyber Security Researcher | Full Stack Learner | Python + VBA + JS Dev</code></h3>
+<h3 align="center"><code>Cyber Security Researcher | Full Stack Developer | Python + VBA + JS Dev</code></h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Hacking+into+Knowledge+...;Automating+Everything+with+Code;Tracking+Bugs+Before+They+Bite" alt="Typing SVG" />
