@@ -1,234 +1,145 @@
-<h1 align="center">💀 Prajeesh KC</h1>
+<div align="center">
 
-<h3 align="center">
-  Cybersecurity Researcher • Full-Stack Developer • Automation Engineer
-</h3>
+# 💀 Prajeesh KC
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Cybersecurity+%2B+Development+%2B+Automation;Hacking+into+Knowledge+%F0%9F%A7%A0;Building+Security+Tools;Automating+Everything+with+Code;Learn.+Break.+Understand.+Build." alt="Typing SVG" />
-</p>
+### Cybersecurity Researcher • Full-Stack Developer • Automation Engineer
 
-<p align="center">
-  <a href="https://github.com/kcprajeesh">
-    <img src="https://img.shields.io/badge/GitHub-kcprajeesh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://twitter.com/prajeesh_kc">
-    <img src="https://img.shields.io/badge/X-@prajeesh__kc-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://instagram.com/prajeesh_kc">
-    <img src="https://img.shields.io/badge/Instagram-@prajeesh__kc-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+**Cybersecurity + Development + Automation**
+
+[![GitHub](https://img.shields.io/badge/GitHub-kcprajeesh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kcprajeesh)
+[![X](https://img.shields.io/badge/X-@prajeesh__kc-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/prajeesh_kc)
+[![Instagram](https://img.shields.io/badge/Instagram-@prajeesh__kc-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prajeesh_kc)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Prajeesh KC**, a developer and cybersecurity enthusiast interested in the intersection of:
+I'm **Prajeesh KC**, a developer and cybersecurity enthusiast focused on the intersection of **security, software development, Linux, and automation**.
 
-- 🔐 Cybersecurity
-- 💻 Software Development
-- 🤖 Automation
-- 🌐 Full-Stack Development
-- 🐍 Python Development
-- 🧪 Security Research
-- 🐧 Linux Systems
-- 🛠️ Developer & Security Tooling
-
-I enjoy understanding how systems work, experimenting with technologies, building useful tools, and automating repetitive tasks.
-
-```bash
-┌──[prajeesh@github]─[~]
-└─$ whoami
-
-Name        : Prajeesh KC
-
-Role        : Cybersecurity Researcher
-              Full-Stack Developer
-              Automation Engineer
-
-Focus       : Security Research
-              Penetration Testing
-              Web Development
-              Automation
-              Linux
-              Developer Tools
-
-Languages   : Python
-              JavaScript
-              VBA
-              HTML
-              CSS
-
-Platforms   : Kali Linux
-              Red Hat Enterprise Linux
-              Linux
-
-Tools       : Selenium
-              Git
-              GitHub
-              VS Code
-              Excel / VBA
-
-Current     : Vibe PentesterLab
-```
-
----
-
-## 🔐 Cybersecurity
-
-My cybersecurity interests include:
-
-- 🔎 Security Research
-- 🧪 Penetration Testing
-- 🌐 Web Application Security
-- 🐛 Vulnerability Analysis
-- 🔐 Security Testing
-- 🤖 Security Automation
-- 🛠️ Security Tool Development
-- 🐧 Linux Security
-- 📚 Hands-on Security Learning
-
-> ⚠️ Security testing and penetration testing should always be performed on systems you own or have explicit authorization to test.
-
----
-
-## 🐧 Linux
-
-Linux is an important part of my development and cybersecurity workflow.
-
-### 🐉 Kali Linux
-
-Exploring and learning:
-
-- Penetration Testing
-- Security Research
-- Web Security
-- Vulnerability Analysis
-- Network Security
-- Security Tooling
-- Linux Command Line
-
-### 🔴 Red Hat Enterprise Linux
-
-Exploring:
-
-- Linux Administration
-- Server Environments
-- System Configuration
-- Security & Hardening
-- Command-Line Tools
-- Enterprise Linux Concepts
+I enjoy understanding how systems work, testing them in authorized environments, building practical tools, and automating repetitive workflows.
 
 ```text
-🐧 Linux
-│
-├── 🐉 Kali Linux
-│   ├── Security Research
-│   ├── Penetration Testing
-│   ├── Web Security
-│   └── Security Tooling
-│
-└── 🔴 Red Hat Enterprise Linux
-    ├── System Administration
-    ├── Server Environments
-    ├── Security
-    └── Hardening
+┌─[prajeesh@github]─[~]
+└─$ whoami
+
+Name       : Prajeesh KC
+Role       : Cybersecurity Researcher
+             Full-Stack Developer
+             Automation Engineer
+Focus      : Security Research • Pentesting • Web Development
+             Linux • Automation • Developer Tooling
+Languages  : Python • JavaScript • VBA • HTML • CSS
+Platforms  : Kali Linux • Red Hat Enterprise Linux
+Current    : Vibe PentesterLab
 ```
+
+> ⚠️ Security testing and penetration testing should only be performed on systems you own or are explicitly authorized to test.
 
 ---
 
 ## 🧰 Tech Stack
 
-### 👨‍💻 Programming Languages
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css" alt="Programming Languages" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,linux,redhat,git,github,vscode,selenium" alt="Tech Stack" />
 
-**Python • JavaScript • VBA • HTML • CSS**
+</div>
 
-### 🐧 Operating Systems
+| Category | Technologies |
+|---|---|
+| 💻 Languages | Python · JavaScript · VBA · HTML · CSS |
+| 🐧 Linux | Kali Linux · Red Hat Enterprise Linux |
+| 🔐 Security | Security Research · Web Security · Pentesting |
+| 🤖 Automation | Selenium · Python Automation · Excel/VBA |
+| 🛠️ Tools | Git · GitHub · VS Code |
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,redhat" alt="Linux and Red Hat" />
-</p>
+---
 
-**Kali Linux • Red Hat Enterprise Linux • Linux**
+## 🔐 Focus Areas
 
-### ⚙️ Development & Automation
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=selenium,git,github,vscode" alt="Development and Automation" />
-</p>
-
-**Selenium • Python Automation • Browser Automation • Git • GitHub • VS Code • Excel/VBA**
+- 🔎 **Security Research** — vulnerability analysis and hands-on learning
+- 🧪 **Penetration Testing** — authorized web application security testing
+- 🐧 **Linux** — Kali Linux, RHEL administration, security and hardening
+- 🤖 **Automation** — Selenium and custom Python workflows
+- 🌐 **Full-Stack Development** — building and securing web applications
+- 📊 **Excel/VBA** — automating repetitive workflows
 
 ---
 
 ## 🚀 Current Project
 
-### 🧪 Vibe PentesterLab
+### 🧪 [Vibe PentesterLab](https://github.com/kcprajeesh/Vibe-pentesterlab)
 
-I'm currently working on **Vibe PentesterLab**, a security-focused project for experimenting with:
+A hands-on security lab for practicing **penetration testing, vulnerability analysis, security automation, and security tooling** in a safe, self-contained environment.
 
-- 🔐 Penetration Testing
-- 🧪 Security Research
-- 🐛 Vulnerability Analysis
-- 🤖 Security Automation
-- 🛠️ Security Tooling
-- 🌐 Web Security
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/kcprajeesh/Vibe-pentesterlab">
-    <img src="https://img.shields.io/badge/Explore-Vibe_PentesterLab-00FF41?style=for-the-badge&logo=github&logoColor=black" alt="Vibe PentesterLab" />
-  </a>
-</p>
+[![Explore Vibe PentesterLab](https://img.shields.io/badge/Explore-Vibe_PentesterLab-00FF41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/kcprajeesh/Vibe-pentesterlab)
+
+</div>
 
 ---
 
-## 🧠 What I Like Building
+## 🧠 How I Build
 
 ```text
-                     💡 IDEA
-                       │
-                       ▼
-                  🔎 RESEARCH
-                       │
-                       ▼
-                  🧪 EXPERIMENT
-                       │
-                       ▼
-                    🔨 BUILD
-                       │
-                       ▼
-                   🤖 AUTOMATE
-                       │
-                       ▼
-                    🧪 TEST
-                       │
-                       ▼
-                   🚀 IMPROVE
+💡 IDEA
+  ↓
+🔎 RESEARCH
+  ↓
+🧪 EXPERIMENT
+  ↓
+🔨 BUILD
+  ↓
+🤖 AUTOMATE
+  ↓
+🧪 TEST
+  ↓
+🚀 IMPROVE
 ```
-
-I enjoy projects where **security, programming and automation** come together.
 
 ---
 
-## 🛠️ Areas I'm Exploring
+## 🐧 Linux
 
-| Area | Focus |
-|------|-------|
-| 🔐 Cybersecurity | Security Research & Pentesting |
-| 🐧 Linux | Kali Linux & Red Hat Enterprise Linux |
-| 🌐 Web Security | Web Application Security |
-| 🐍 Python | Scripting, Tools & Automation |
-| 🟨 JavaScript | Web Applications & Tooling |
-| 📊 VBA | Excel Automation |
-| 🤖 Automation | Selenium & Custom Workflows |
-| 🧪 Security Tools | Research & Experimentation |
-| 🌐 Full Stack | Web Applications & APIs |
-| 🚀 Development | Practical Software Projects |
+| Platform | Focus |
+|---|---|
+| 🐉 **Kali Linux** | Security research · Pentesting · Web security · Security tooling |
+| 🔴 **Red Hat Enterprise Linux** | Administration · Servers · Configuration · Security · Hardening |
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kcprajeesh&show_icons=true&theme=dark&hide_border=true" alt="Prajeesh's GitHub Stats" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.demolab.com?user=kcprajeesh&theme=dark&hide_border=true" alt="Prajeesh's GitHub Streak" />
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcprajeesh&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kcprajeesh/Kcprajeesh/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kcprajeesh/Kcprajeesh/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/kcprajeesh/Kcprajeesh/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
 
 ---
 
@@ -237,111 +148,35 @@ I enjoy projects where **security, programming and automation** come together.
 ```text
 [+] Improve Cybersecurity Skills
 [+] Learn Advanced Linux
-[+] Develop Full-Stack Applications
+[+] Build Full-Stack Applications
 [+] Build Security Tools
 [+] Automate Repetitive Workflows
 [+] Explore Python & JavaScript
-[+] Learn More About Enterprise Linux
+[+] Learn Enterprise Linux
 [+] Contribute to Open Source
-[+] Build Practical Projects
 ```
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=kcprajeesh&show_icons=true&theme=dark&hide_border=true"
-    alt="Prajeesh's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.demolab.com?user=kcprajeesh&theme=dark&hide_border=true"
-    alt="Prajeesh's GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcprajeesh&layout=compact&theme=dark&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/kcprajeesh/kcprajeesh/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
 
 ---
 
 ## 📡 Connect With Me
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/kcprajeesh">
-<img src="https://img.shields.io/badge/GitHub-kcprajeesh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-kcprajeesh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kcprajeesh)
+[![X](https://img.shields.io/badge/X-@prajeesh__kc-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/prajeesh_kc)
+[![Instagram](https://img.shields.io/badge/Instagram-@prajeesh__kc-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prajeesh_kc)
+[![Email](https://img.shields.io/badge/Email-vp.prajeesh2-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vp.prajeesh2@gmail.com)
 
-<a href="https://twitter.com/prajeesh_kc">
-<img src="https://img.shields.io/badge/X-@prajeesh__kc-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>
-
-<a href="https://instagram.com/prajeesh_kc">
-<img src="https://img.shields.io/badge/Instagram-@prajeesh__kc-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
-</a>
-
-</p>
-
-<p align="center">
-  📧 <strong>vp.prajeesh2@gmail.com</strong>
-</p>
+</div>
 
 ---
 
-## ⚡ Philosophy
+<div align="center">
 
-```text
-┌───────────────────────────────────────┐
-│            STAY CURIOUS               │
-├───────────────────────────────────────┤
-│                                       │
-│          LEARN THE SYSTEM             │
-│                  ↓                    │
-│             UNDERSTAND IT             │
-│                  ↓                    │
-│              TEST IT                  │
-│                  ↓                    │
-│             BUILD TOOLS               │
-│                  ↓                    │
-│             AUTOMATE                  │
-│                  ↓                    │
-│              IMPROVE                  │
-│                                       │
-└───────────────────────────────────────┘
-```
+### 💀 Learn • Break • Understand • Build • Automate • Improve 🚀
 
-<h3 align="center">
+*Always learning. Always experimenting.*
 
-💀 Learn • Break • Understand • Build • Automate • Improve 🚀
+<img src="https://komarev.com/ghpvc/?username=kcprajeesh&label=Profile%20Views&style=flat" alt="Profile Views" />
 
-</h3>
-
-<p align="center">
-  <i>Always learning. Always experimenting.</i>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kcprajeesh&label=Profile%20Views&style=flat" alt="Profile Views" />
-</p>
+</div>
