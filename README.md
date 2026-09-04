@@ -111,23 +111,6 @@ A hands-on security lab for practicing **penetration testing, vulnerability anal
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kcprajeesh&show_icons=true&theme=dark&hide_border=true" alt="Prajeesh's GitHub Stats" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.demolab.com?user=kcprajeesh&theme=dark&hide_border=true" alt="Prajeesh's GitHub Streak" />
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcprajeesh&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
