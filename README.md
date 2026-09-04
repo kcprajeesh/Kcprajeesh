@@ -1,7 +1,7 @@
 <h1 align="center">💀 Prajeesh KC</h1>
 
 <h3 align="center">
-  Cyber Security Researcher • Full-Stack Developer • Automation Engineer
+  Cybersecurity Researcher • Full-Stack Developer • Automation Engineer
 </h3>
 
 <p align="center">
@@ -10,13 +10,13 @@
 
 <p align="center">
   <a href="https://github.com/kcprajeesh">
-    <img src="https://img.shields.io/badge/GitHub-kcprajeesh-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-kcprajeesh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://twitter.com/prajeesh_kc">
-    <img src="https://img.shields.io/badge/X-@prajeesh__kc-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-@prajeesh__kc-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="https://instagram.com/prajeesh_kc">
-    <img src="https://img.shields.io/badge/Instagram-@prajeesh__kc-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@prajeesh__kc-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
@@ -43,7 +43,7 @@ I enjoy understanding how systems work, experimenting with technologies, buildin
 
 Name        : Prajeesh KC
 
-Role        : Cyber Security Researcher
+Role        : Cybersecurity Researcher
               Full-Stack Developer
               Automation Engineer
 
@@ -99,7 +99,7 @@ Linux is an important part of my development and cybersecurity workflow.
 
 ### 🐉 Kali Linux
 
-Used for learning and experimenting with:
+Exploring and learning:
 
 - Penetration Testing
 - Security Research
@@ -143,44 +143,26 @@ Exploring:
 ### 👨‍💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css" alt="Programming Languages" />
 </p>
 
-```text
-Python
-JavaScript
-VBA
-HTML
-CSS
-```
+**Python • JavaScript • VBA • HTML • CSS**
 
 ### 🐧 Operating Systems
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,redhat" />
+  <img src="https://skillicons.dev/icons?i=linux,redhat" alt="Linux and Red Hat" />
 </p>
 
-```text
-🐉 Kali Linux
-🔴 Red Hat Enterprise Linux
-🐧 Linux
-```
+**Kali Linux • Red Hat Enterprise Linux • Linux**
 
 ### ⚙️ Development & Automation
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=selenium,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=selenium,git,github,vscode" alt="Development and Automation" />
 </p>
 
-```text
-Selenium
-Python Automation
-Browser Automation
-Git
-GitHub
-VS Code
-Excel / VBA
-```
+**Selenium • Python Automation • Browser Automation • Git • GitHub • VS Code • Excel/VBA**
 
 ---
 
@@ -199,7 +181,7 @@ I'm currently working on **Vibe PentesterLab**, a security-focused project for e
 
 <p align="center">
   <a href="https://github.com/kcprajeesh/Vibe-pentesterlab">
-    <img src="https://img.shields.io/badge/Explore-Vibe_PentesterLab-00FF41?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/Explore-Vibe_PentesterLab-00FF41?style=for-the-badge&logo=github&logoColor=black" alt="Vibe PentesterLab" />
   </a>
 </p>
 
@@ -250,47 +232,7 @@ I enjoy projects where **security, programming and automation** come together.
 
 ---
 
-## 📊 Skill Overview
-
-```text
-Cybersecurity       ███████████████░░░░░
-Python              █████████████████░░░
-JavaScript          ███████████████░░░░░
-Linux               █████████████████░░░
-Selenium            ████████████████░░░░
-Automation          █████████████████░░░
-VBA                 ███████████████░░░░░
-Web Development     ██████████████░░░░░░
-Security Research   ███████████████░░░░░
-```
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kcprajeesh&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kcprajeesh&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcprajeesh&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kcprajeesh/kcprajeesh/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## 🎯 Goals
+## 🎯 Current Learning Goals
 
 ```text
 [+] Improve Cybersecurity Skills
@@ -306,20 +248,56 @@ Security Research   ███████████████░░░░░
 
 ---
 
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=kcprajeesh&show_icons=true&theme=dark&hide_border=true"
+    alt="Prajeesh's GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.demolab.com?user=kcprajeesh&theme=dark&hide_border=true"
+    alt="Prajeesh's GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcprajeesh&layout=compact&theme=dark&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/kcprajeesh/kcprajeesh/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
+---
+
 ## 📡 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/kcprajeesh">
-<img src="https://img.shields.io/badge/GitHub-kcprajeesh-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-kcprajeesh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <a href="https://twitter.com/prajeesh_kc">
-<img src="https://img.shields.io/badge/X-@prajeesh__kc-000000?style=for-the-badge&logo=x&logoColor=white" />
+<img src="https://img.shields.io/badge/X-@prajeesh__kc-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
 
 <a href="https://instagram.com/prajeesh_kc">
-<img src="https://img.shields.io/badge/Instagram-@prajeesh__kc-E4405F?style=for-the-badge&logo=instagram" />
+<img src="https://img.shields.io/badge/Instagram-@prajeesh__kc-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
 </p>
@@ -365,5 +343,5 @@ Security Research   ███████████████░░░░░
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kcprajeesh&label=Profile%20Views&color=00ff41&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kcprajeesh&label=Profile%20Views&style=flat" alt="Profile Views" />
 </p>
