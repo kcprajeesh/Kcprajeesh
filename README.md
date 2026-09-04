@@ -297,7 +297,7 @@ I enjoy projects where **security, programming and automation** come together.
 </a>
 
 <a href="https://instagram.com/prajeesh_kc">
-<img src="https://img.shields.io/badge/Instagram-@prajeesh__kc-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+<img src="https://img.shields.io/badge/Instagram-@prajeesh__kc-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
 </a>
 
 </p>
