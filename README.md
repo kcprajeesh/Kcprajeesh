@@ -1,100 +1,165 @@
 <div align="center">
 
-# Prajeesh KC
+# 💀 Prajeesh KC
 
-### Cybersecurity Researcher · Python Developer · AI Security Builder
+### Cybersecurity Researcher • Full-Stack Developer • Automation Engineer
 
-**Research. Build. Test. Secure.**
+**Cybersecurity + Development + Automation**
 
-[GitHub](https://github.com/kcprajeesh) · [CYVANTAS](https://cyvantas.in) · [X](https://x.com/prajeesh_kc) · [Instagram](https://instagram.com/prajeesh_kc)
+[![GitHub](https://img.shields.io/badge/GitHub-kcprajeesh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kcprajeesh)
+[![X](https://img.shields.io/badge/X-@prajeesh__kc-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/prajeesh_kc)
+[![Instagram](https://img.shields.io/badge/Instagram-@prajeesh__kc-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prajeesh_kc)
 
 </div>
 
 ---
 
-## About me
+## 👨‍💻 About Me
 
-I build Python tools for application security, automation, and AI-assisted security workflows. My work centers on understanding how applications behave, testing them within an authorized scope, and turning findings into useful evidence for developers. I also work with Linux and practical developer tooling.
+I'm **Prajeesh KC**, a developer and cybersecurity enthusiast focused on the intersection of **security, software development, Linux, and automation**.
+
+I enjoy understanding how systems work, testing them in authorized environments, building practical tools, and automating repetitive workflows.
 
 ```text
-prajeesh@github:~$ focus
-application security · Python tooling · AI security agents
-automation · Linux · evidence-led testing
+┌─[prajeesh@github]─[~]
+└─$ whoami
+
+Name       : Prajeesh KC
+Role       : Cybersecurity Researcher
+             Full-Stack Developer
+             Automation Engineer
+Focus      : Security Research • Pentesting • Web Development
+             Linux • Automation • Developer Tooling
+Languages  : Python • JavaScript • VBA • HTML • CSS
+Platforms  : Kali Linux • Red Hat Enterprise Linux
+Current    : Vibe PentesterLab
 ```
 
-## Featured projects
+> ⚠️ Security testing and penetration testing should only be performed on systems you own or are explicitly authorized to test.
 
-### [Vibe PentesterLab](https://github.com/kcprajeesh/Vibe-pentesterlab)
+---
 
-An open-source application security platform for authorized testing. Its documented workflow combines reconnaissance, source analysis, controlled validation, evidence collection, and developer-focused reports.
+## 🧰 Tech Stack
 
-### [Cyvantas AI Agent](https://github.com/kcprajeesh/CyvantasAlAgent)
+<div align="center">
 
-An AI-assisted application security testing project with a security control plane for authorization, scoped execution, evidence handling, and agent workflows.
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,linux,redhat,git,github,vscode,selenium" alt="Tech Stack" />
 
-### [CyvantasForge](https://github.com/kcprajeesh/CyvantasForge)
+</div>
 
-A Python application security tool with a CLI, source analysis, bounded sandbox testing, and terminal, Markdown, JSON, and SARIF reporting.
+| Category | Technologies |
+|---|---|
+| 💻 Languages | Python · JavaScript · VBA · HTML · CSS |
+| 🐧 Linux | Kali Linux · Red Hat Enterprise Linux |
+| 🔐 Security | Security Research · Web Security · Pentesting |
+| 🤖 Automation | Selenium · Python Automation · Excel/VBA |
+| 🛠️ Tools | Git · GitHub · VS Code |
 
-## Technology stack
+---
 
-Technologies reflected in the public projects and their documentation:
+## 🔐 Focus Areas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-555555?style=flat-square&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![SARIF](https://img.shields.io/badge/SARIF-4B5563?style=flat-square)
+- 🔎 **Security Research** — vulnerability analysis and hands-on learning
+- 🧪 **Penetration Testing** — authorized web application security testing
+- 🐧 **Linux** — Kali Linux, RHEL administration, security and hardening
+- 🤖 **Automation** — Selenium and custom Python workflows
+- 🌐 **Full-Stack Development** — building and securing web applications
+- 📊 **Excel/VBA** — automating repetitive workflows
 
-The repository language data is Python for the featured tools, with Shell also present in Cyvantas AI Agent. I’ve left out JavaScript, HTML, CSS, and VBA because they aren’t demonstrated by the inspected public projects.
+---
 
-## Security research and development
+## 🚀 Current Project
 
-**Current work**
+### 🧪 [Vibe PentesterLab](https://github.com/kcprajeesh/Vibe-pentesterlab)
 
-- Authorized web and application security testing
-- Vulnerability analysis, controlled validation, and evidence-focused reporting
-- Python security tooling and workflow automation
-- AI-assisted security agents and application security workflows
-- Linux-based development and bounded testing environments
+A hands-on security lab for practicing **penetration testing, vulnerability analysis, security automation, and security tooling** in a safe, self-contained environment.
 
-**Continuing to develop**
+<div align="center">
 
-- Deeper application security and vulnerability research
-- More reliable agent evaluation and validation workflows
-- Secure application development and repeatable testing
+[![Explore Vibe PentesterLab](https://img.shields.io/badge/Explore-Vibe_PentesterLab-00FF41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/kcprajeesh/Vibe-pentesterlab)
 
-Security testing should only be performed against systems you own or are explicitly authorized to assess.
+</div>
 
-## GitHub statistics
+---
 
-I’ve kept this section focused on the contribution graph rather than embedding third-party statistics cards or streak counters.
+## 🧠 How I Build
 
-## Contribution snake
+```text
+💡 IDEA
+  ↓
+🔎 RESEARCH
+  ↓
+🧪 EXPERIMENT
+  ↓
+🔨 BUILD
+  ↓
+🤖 AUTOMATE
+  ↓
+🧪 TEST
+  ↓
+🚀 IMPROVE
+```
 
-The profile repository’s existing GitHub Actions workflow generates these SVGs and publishes them to its `output` branch.
+---
+
+## 🐧 Linux
+
+| Platform | Focus |
+|---|---|
+| 🐉 **Kali Linux** | Security research · Pentesting · Web security · Security tooling |
+| 🔴 **Red Hat Enterprise Linux** | Administration · Servers · Configuration · Security · Hardening |
+
+---
+
+
+## 🐍 Contribution Snake
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kcprajeesh/Kcprajeesh/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kcprajeesh/Kcprajeesh/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution graph animation showing my GitHub activity" src="https://raw.githubusercontent.com/kcprajeesh/Kcprajeesh/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/kcprajeesh/Kcprajeesh/output/github-contribution-grid-snake.svg" />
 </picture>
 
-## CYVANTAS
+</div>
 
-[CYVANTAS](https://cyvantas.in) is my cybersecurity brand, where I build security tooling and explore practical application security research.
+---
 
-## Connect
+## 🎯 Current Learning Goals
 
-- [GitHub](https://github.com/kcprajeesh)
-- [X](https://x.com/prajeesh_kc)
-- [Instagram](https://instagram.com/prajeesh_kc)
-- [CYVANTAS](https://cyvantas.in)
+```text
+[+] Improve Cybersecurity Skills
+[+] Learn Advanced Linux
+[+] Build Full-Stack Applications
+[+] Build Security Tools
+[+] Automate Repetitive Workflows
+[+] Explore Python & JavaScript
+[+] Learn Enterprise Linux
+[+] Contribute to Open Source
+```
+
+---
+
+## 📡 Connect With Me
 
 <div align="center">
 
-**BUILD. BREAK. UNDERSTAND. SECURE.**
+[![GitHub](https://img.shields.io/badge/GitHub-kcprajeesh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kcprajeesh)
+[![X](https://img.shields.io/badge/X-@prajeesh__kc-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/prajeesh_kc)
+[![Instagram](https://img.shields.io/badge/Instagram-@prajeesh__kc-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prajeesh_kc)
+[![Email](https://img.shields.io/badge/Email-vp.prajeesh2-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vp.prajeesh2@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💀 Learn • Break • Understand • Build • Automate • Improve 🚀
+
+*Always learning. Always experimenting.*
+
+<img src="https://komarev.com/ghpvc/?username=kcprajeesh&label=Profile%20Views&style=flat" alt="Profile Views" />
 
 </div>
